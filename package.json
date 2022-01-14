@@ -1,0 +1,15 @@
+{
+  "name": "opencvjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "http-server"
+  },
+  "author": "James",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
+}
